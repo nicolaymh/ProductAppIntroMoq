@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7mbb6mgces=",
+  "dgSpecHash": "6VRoAGv40no=",
   "success": true,
-  "projectFilePath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoq\\ProductAppIntroMoq.csproj",
+  "projectFilePath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoq\\ProductAppIntroMoq.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

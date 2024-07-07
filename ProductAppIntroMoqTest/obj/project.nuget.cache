@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJgqDny+Zog=",
+  "dgSpecHash": "wj9pR15xaaQ=",
   "success": true,
-  "projectFilePath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoqTest\\ProductAppIntroMoqTest.csproj",
+  "projectFilePath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoqTest\\ProductAppIntroMoqTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nimohe\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Nimohe\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

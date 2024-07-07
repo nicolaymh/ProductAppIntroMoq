@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProductAppIntroMoqTest")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProductAppIntroMoq")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f2cc8402a09504fc846b8ec18a331a8f72be24")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProductAppIntroMoqTest")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProductAppIntroMoqTest")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProductAppIntroMoq")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProductAppIntroMoq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

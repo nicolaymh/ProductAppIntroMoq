@@ -5673,11 +5673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoqTest\\ProductAppIntroMoqTest.csproj",
+      "projectUniqueName": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoqTest\\ProductAppIntroMoqTest.csproj",
       "projectName": "ProductAppIntroMoqTest",
-      "projectPath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoqTest\\ProductAppIntroMoqTest.csproj",
+      "projectPath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoqTest\\ProductAppIntroMoqTest.csproj",
       "packagesPath": "C:\\Users\\Nimohe\\.nuget\\packages\\",
-      "outputPath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoqTest\\obj\\",
+      "outputPath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoqTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nimohe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5695,8 +5695,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoq\\ProductAppIntroMoq.csproj": {
-              "projectPath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing\\ProductAppIntroMoq\\ProductAppIntroMoq.csproj"
+            "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoq\\ProductAppIntroMoq.csproj": {
+              "projectPath": "D:\\Self-Learning\\FullStack\\Avanzado\\.Net\\Testing with XUnit and Moq\\ProductAppIntroMoq\\ProductAppIntroMoq.csproj"
             }
           }
         }
